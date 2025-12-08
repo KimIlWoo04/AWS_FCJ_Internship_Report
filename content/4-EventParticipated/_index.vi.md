@@ -31,7 +31,7 @@ Trong quá trình thực tập, em đã tham gia 3 events, với mỗi event là
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
 
-### [Event 2](4.3-Event3/)
+### [Event 3](4.3-Event3/)
 &emsp;**Tên sự kiện:** AWS Cloud Mastery Series #2
 
 &emsp;**Thời gian:** 08:00 ngày 17/11/2025
